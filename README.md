@@ -1,2 +1,2 @@
-# seatbooking
+# movie
 Created with CodeSandbox
